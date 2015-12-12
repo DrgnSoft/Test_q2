@@ -1,0 +1,6 @@
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\bin\Debug\Test_q2.exe.config
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\obj\Debug\Test_q2.csprojResolveAssemblyReference.cache
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\bin\Debug\Test_q2.exe
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\bin\Debug\Test_q2.pdb
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\obj\Debug\Test_q2.exe
+c:\users\michael cheung\documents\visual studio 2015\Projects\Test_q2\Test_q2\obj\Debug\Test_q2.pdb
